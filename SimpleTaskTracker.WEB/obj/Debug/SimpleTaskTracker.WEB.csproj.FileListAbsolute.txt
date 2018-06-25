@@ -1,0 +1,148 @@
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\csc.exe
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\vbc.exe
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\VBCSCompiler.exe
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.WEB.dll.config
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.WEB.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.WEB.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\AutoMapper.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Newtonsoft.Json.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.WebHost.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Mvc.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Owin.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.BLL.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.ValueTuple.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Helpers.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Mvc.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Razor.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Deployment.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Razor.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.BLL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\AutoMapper.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\AutoMapper.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Newtonsoft.Json.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.WebHost.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Mvc.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.ValueTuple.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Razor.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Deployment.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Razor.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Helpers.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Mvc.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.DAL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\csc.exe
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\System.Collections.Immutable.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\System.Reflection.Metadata.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\vbc.exe
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\VBCSCompiler.exe
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\roslyn\VBCSCompiler.exe.config
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.WEB.dll.config
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.WEB.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.WEB.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\AutoMapper.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Web.Infrastructure.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Newtonsoft.Json.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.WebHost.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Mvc.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Owin.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.BLL.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.ValueTuple.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Helpers.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Mvc.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Razor.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Deployment.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Razor.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.DAL.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\EntityFramework.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.BLL.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.BLL.dll.config
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\AutoMapper.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\AutoMapper.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Newtonsoft.Json.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Common.WebHost.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Ninject.Web.Mvc.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.ValueTuple.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Razor.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Deployment.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Webpages.Razor.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Helpers.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\System.Web.Mvc.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.DAL.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\SimpleTaskTracker.DAL.dll.config
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\EntityFramework.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.csprojResolveAssemblyReference.cache
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.csproj.CoreCompileInputs.cache
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.csproj.CopyComplete
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\obj\Debug\SimpleTaskTracker.WEB.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\EntityFramework.SqlServer.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.WEB\bin\EntityFramework.SqlServer.xml

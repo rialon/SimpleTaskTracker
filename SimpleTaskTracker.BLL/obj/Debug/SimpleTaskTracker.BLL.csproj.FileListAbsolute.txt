@@ -1,0 +1,49 @@
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.BLL.dll.config
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.BLL.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.BLL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\AutoMapper.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Ninject.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\System.ValueTuple.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.DAL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\AutoMapper.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\AutoMapper.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Ninject.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\System.ValueTuple.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.BLL.dll.config
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.BLL.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.BLL.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\AutoMapper.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Ninject.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.DAL.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\System.ValueTuple.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.DAL.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\SimpleTaskTracker.DAL.dll.config
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\AutoMapper.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\AutoMapper.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\Ninject.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\bin\Debug\System.ValueTuple.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.csprojResolveAssemblyReference.cache
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.csproj.CoreCompileInputs.cache
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.csproj.CopyComplete
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.BLL\obj\Debug\SimpleTaskTracker.BLL.pdb

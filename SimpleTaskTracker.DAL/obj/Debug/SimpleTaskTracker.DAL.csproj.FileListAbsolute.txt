@@ -1,0 +1,30 @@
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\SimpleTaskTracker.DAL.dll.config
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\SimpleTaskTracker.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\SimpleTaskTracker.DAL.pdb
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.dll
+D:\Мои документы\Visual Studio 2015\Projects\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\SimpleTaskTracker.DAL.dll.config
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\SimpleTaskTracker.DAL.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\SimpleTaskTracker.DAL.pdb
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.csprojResolveAssemblyReference.cache
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.csproj.CoreCompileInputs.cache
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.csproj.CopyComplete
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.dll
+D:\Studing\Projects\Incubator\Task Two\SimpleTaskTracker\SimpleTaskTracker.DAL\obj\Debug\SimpleTaskTracker.DAL.pdb
